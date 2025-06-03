@@ -1,4 +1,4 @@
-[see pulldata.md](Survey123/Arcade/calculation/pulldata.md)
+[see pulldata.md](pulldata.md)
 
 <details>
 <summary>Using an if statment to either pulldata or use override field</summary>
