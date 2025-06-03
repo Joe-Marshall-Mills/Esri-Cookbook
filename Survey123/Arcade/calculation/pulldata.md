@@ -22,6 +22,5 @@ concat("ATTRIBUTE='",${FIELD},"'")
 ```
 pulldata("@layer", "getValue", "attributes.FIELD", "https://services6.arcgis.com/ID/arcgis/rest/services/LAYERNAME/FeatureServer/SUBLAYER#", ${Where_Calc})  
 ```
-<a name="getValueAnchor"></a>
 
 </details>
