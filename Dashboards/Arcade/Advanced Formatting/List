@@ -1,7 +1,4 @@
 <details>
-<summary>List</summary>
-  
-<details>
 <summary>Days since submission</summary>
   
 ```ruby
@@ -20,4 +17,4 @@ return {
 ```
 
 </details>
-</details>
+
