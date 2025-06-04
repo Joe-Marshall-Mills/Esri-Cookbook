@@ -39,7 +39,7 @@ for feature in query_results: #Loop through each feature using query_results
 </details>
 
 <details>
-<summary>Pandas</summary>
+<summary>Pandas module</summary>
   
 ```ruby
 from pandas import pandas #Import module
