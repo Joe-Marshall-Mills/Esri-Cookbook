@@ -15,3 +15,12 @@ count-selected(${FIELD})=1
 ```
 
 </details>
+
+<details>
+<summary>No whitespace at start or end of string</summary>
+ 
+```ruby
+not(regex(., '^\s+|\s+$'))
+```
+
+</details>
