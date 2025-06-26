@@ -3,3 +3,5 @@ Repository to act as a "cheat sheet" for various code used across multiple Esri 
 
 <b>Quick Links</b><p>
 [Dashboards](Dashboards)
+  *[Dashboards/Arcade](Dashboards/Arcade)
+
