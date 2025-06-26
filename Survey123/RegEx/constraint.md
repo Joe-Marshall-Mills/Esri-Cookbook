@@ -6,3 +6,12 @@
 ```
 
 </details>
+
+<details>
+<summary>Limit options selected</summary>
+ 
+```ruby
+count-selected(${FIELD})=1
+```
+
+</details>
