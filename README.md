@@ -7,3 +7,13 @@ Repository to act as a "cheat sheet" for various code used across multiple Esri 
  - [HTML](Dashboards/HTML)<p>
  - [SVG](Dashboards/SVG)<p>
 
+ | Product | Language |
+ |---------|----------|
+ | [Dashboards](Dashboards) | [Arcade](Dashboards/Arcade) |
+ || [HTML](Dashboards/HTML) |
+ || [SVG](Dashboards/SVG) |
+ | [Map Viewer](Map_Viewer) | [Arcade](Map_Viewer/Arcade) |
+ || [HTML](Map_Viewer/HTML) |
+ | [Notebooks](Notebooks) | [Python](Notebooks) |
+ | [Survey123](Survey123) | [Arcade](Survey123/Arcade) |
+ || [HTML](Survey123/HTML) |
