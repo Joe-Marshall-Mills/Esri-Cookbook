@@ -1,5 +1,5 @@
 # Esri-Cookbook
-Repository to act as a "cheat sheet" for various code used across multiple Esri platforms.
+Repository to act as a "cheat sheet" for various code used across multiple Esri products.
 
 <b>Quick Links</b><p>
 [Dashboards](Dashboards)<p>
