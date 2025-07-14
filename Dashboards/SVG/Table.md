@@ -24,3 +24,40 @@ var cansvg = '<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometric
 ```
 
 </details>
+
+<details>
+<summary>Lamppost</summary>
+  
+```ruby
+var lamppost = '<svg xmlns="http://www.w3.org/2000/svg" height="25px" width="25px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill= "white" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 21 21"><path d="M16,5c0,0.9-0.7,1.7-1.6,1.8l-0.4,0c-0.9-0.1-1.5-0.9-1.5-1.8H12c-0.5,0-0.9-0.4-0.9-0.9c0,0,0-0.1,0-0.1H9.7&#10;&#9;C8.3,4,7,5.8,7,7.2V14c0.6,0,1,0.4,1,1c0,0,0,0,0,0v4H5v-4c0-0.6,0.4-1,1-1c0,0,0,0,0,0V7.8C5.9,5.4,7.6,3.3,10,3c0.1,0,1.2,0,1.3,0&#10;&#9;H15c0.3,0,0.6,0.2,0.8,0.4L17,5H16z"/></svg>'
+```
+
+</details>
+
+<details>
+<summary>Spray Can</summary>
+  
+```ruby
+var spraycan = '<svg xmlns="http://www.w3.org/2000/svg" height="25px" width="25px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill= "white" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 21 21"><path d="M5 10h6v8H5v-8zm4-2.992V5H7v2.008a1.705 1.705 0 0 0-1.472.937L5 9h6l-.528-1.055A1.705 1.705 0 0 0 9 7.008zM10 6h2V4h-2v2zm3-1h2V3h-2v2zm0 4h2V7h-2v2zm3 2h2V9h-2v2zm0-6v2h2V5h-2z"/></svg>'
+```
+
+</details>
+
+<details>
+<summary>Dog</summary>
+  
+```ruby
+var dog = '<svg xmlns="http://www.w3.org/2000/svg" height="25px" width="25px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill= "white" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 21 21"><path d="M14,10.5l-0.4,1.1c-0.1,0.2-0.1,0.5-0.1,0.8V17h-1l-1-3.1c-1,0.1-2,0-3-0.2c-2.2-0.6-1.5-0.8-2-0.6&#10;&#9;c-0.7,0.3-1.2,1.6-1.2,1.6L4.3,17H3.4v-2c0.2-1.2,0.5-2.5,1-3.6c0.5-0.8-0.7-1.2-1.2-2c-0.4-0.6-0.6-1.3-0.6-2&#10;&#9;c0.1-1.2,0.6-2.3,1.3-3.2L4.7,8h5.8c0.3,0,0.6,0,0.8-0.1L14,10.5z M17,7c-0.3-0.2-0.6-0.6-0.5-1V4l-0.8,1h-1l-1.2-1v2l-0.7,1.3&#10;&#9;l1.8,1.8C15,9,15.4,9,15.9,9c1.6,0,2.4-0.5,2.5-1.1C18.4,7.4,17.6,7.4,17,7z"/></svg>'
+```
+
+</details>
+
+<details>
+<summary>Fridge</summary>
+  
+```ruby
+var fridge = '<svg xmlns="http://www.w3.org/2000/svg" height="25px" width="25px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill= "white" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 21 21"><path d="M6,18c0,0.5,0.5,1,1,1h7c0.5,0,1-0.5,1-1v-8H6V18z M12,12h1v3h-1V12z M14,2H7C6.5,2,6,2.5,6,3v6h9V3C15,2.5,14.5,2,14,2z&#10;&#9; M13,7h-1V4h1V7z"/></svg>'
+
+```
+
+</details>
