@@ -6,3 +6,12 @@ var html = '<div style="background-color: #6fb39e; border: 2px solid #ffffff; bo
 ```
 
 </details>
+
+<details>
+<summary>Fake table using &lt;hr> </summary>
+  
+```ruby
+optionalsvg + '<strong>' + ' TITLE' + '</strong>' + '<br>' + '<hr>' + '<span style="font-weight:bold;color:' + VARIABLE COLOR + '">'  + FIELD + '</span>'
+```
+
+</details>
