@@ -64,7 +64,7 @@ print(df)
 </details>
 
 <details>
-<summary>Loop through DataFrame</summary>
+<summary>Loop through DataFrame and Calculate</summary>
  
 ```ruby
 for row in range(len(df)): #Loop through each row in resulting DataFrame
