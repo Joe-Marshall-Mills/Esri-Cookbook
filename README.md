@@ -1,5 +1,5 @@
 # Esri-Cookbook
-Repository "cheat sheet" for various code used across multiple Esri products.
+Repository "cheat sheet" for various coding languages used across multiple Esri products.
 
 <b>Quick Links</b>
  | Product | Language |
