@@ -8,7 +8,7 @@ Repository "cheat sheet" for various coding languages used across multiple Esri 
  || [HTML](Dashboards/HTML) |
  || [SVG](Dashboards/SVG) |
  | [MapViewer](MapViewer) | [Arcade](MapViewer/Arcade) |
- || [HTML](Map_Viewer/HTML) |
+ || [HTML](MapViewer/HTML) |
  | [Notebooks](Notebooks) | [Python](Notebooks) |
  | [Survey123](Survey123) | [Arcade](Survey123/Arcade) |
  || [HTML](Survey123/HTML) |
