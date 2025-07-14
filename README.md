@@ -4,7 +4,7 @@ Repository "cheat sheet" for various coding languages used across multiple Esri 
 <b>Quick Links</b>
  | Product | Language |
  |---------|----------|
- | [Dashboards](Dashboards) | [Arcade](Dashboards/Arcade) |
+ | [Dashboards](Dashboards) | [🕹️ Arcade](Dashboards/Arcade) |
  || [HTML](Dashboards/HTML) |
  || [SVG](Dashboards/SVG) |
  | [MapViewer](MapViewer) | [Arcade](MapViewer/Arcade) |
