@@ -15,13 +15,13 @@ feature_layer = FeatureLayer(service_url) #Use above URL to load the feature lay
 ```ruby
 # Query only features where Attachment_ID is NULL or empty
 empty_oid_query = feature_layer(
-    where="FIELD IS NULL OR FIELD = ''",
+    where="Attachment_ID IS NULL OR Attachment_ID = ''",
     return_ids_only=True
 )
 
 empty_oids = empty_oid_query.get('objectIds', [])
 
-# Only proceed if there are any empty FIELD fields
+# Only proceed if there are any empty Attachment_ID fields
 if empty_oids:
     print(empty_oids)
 ```
@@ -46,7 +46,7 @@ from pandas import pandas
 data = [] #Create an empty database
 
 for oid in empty_oids:
-    atts = feature_layer_glan.attachments.get_list(oid) #Loop through each objectid and get their attachment ids
+    atts = feature_layer.attachments.get_list(oid) #Loop through each objectid and get their attachment ids
 
     if atts:
         for att in atts:
@@ -71,8 +71,8 @@ for row in range(len(df)): #Loop through each row in resulting DataFrame
     objectid = df["ObjectID"][row] #Refer to ObjectID above
     attid = df["Attachment_ID"][row] #Refer to Attachment_ID above
     
-    feature_layer_glan.calculate( #Calculate field in feature_layer_glan
-    where="ObjectID = '" + str(objectid) + "'", #Where Site matches Site in feature_layer_glan
+    feature_layer.calculate( #Calculate field in feature_layer
+    where="ObjectID = '" + str(objectid) + "'", #Where Site matches Site in feature_layer
     calc_expression={"field": "Attachment_ID", "value": attid}) #Add count from DataFrame based on where
 ```
 
