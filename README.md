@@ -19,3 +19,4 @@ Repository "cheat sheet" for various coding languages used across multiple Esri 
  | <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=html5&logoColor=white"></a> | TEST
  | <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=python&logoColor=white"></a> | TEST
  | <a href="https://www.w3schools.com/graphics/svg_intro.asp" target="_blank"><img alt="SVG" src="https://img.shields.io/badge/SVG-feb03b?style=plastic&logo=svg&logoColor=white"></a>  | TEST
+ | <a href="https://regex101.com/" target="_blank"><img alt="RegEx" src="https://img.shields.io/badge/R-RegEx-blue?style=plastic&logo=regex&logoColor=white&labelColor=blue"></a>  | TEST
