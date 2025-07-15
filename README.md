@@ -1,7 +1,6 @@
 # <a href="https://www.esri.com/en-us/home" target="_blank"><img alt="esri" src="https://img.shields.io/badge/esri-009af2?style=for-the-badge&logo=esri"></a> Cookbook
-Repository "cheat sheet" for various coding languages used across multiple Esri products.
+Repository "cheat sheet" for various coding languages used across multiple Esri products. See quick links table below. 
 
-<b>Quick Links</b>
  | Language | Product |
  |---------|----------|
  | <a href="https://developers.arcgis.com/arcade/" target="_blank"><img alt="Arcade" src="https://img.shields.io/badge/Arcade-c22201?style=plastic&logo=applearcade&logoColor=white"></a> | <a href="https://github.com/Joe-Marshall-Mills/Esri-Cookbook/tree/main/Dashboards/Arcade" target="_blank">Dashboards</a> / <a href="https://github.com/Joe-Marshall-Mills/Esri-Cookbook/tree/main/MapViewer/Arcade" target="_blank">MapViewer</a> / <a href="https://github.com/Joe-Marshall-Mills/Esri-Cookbook/tree/main/Survey123/Arcade" target="_blank">Survey123</a>
