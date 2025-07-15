@@ -1,5 +1,5 @@
 # <a href="https://www.esri.com/en-us/home" target="_blank"><img alt="esri" src="https://img.shields.io/badge/esri-009af2?style=for-the-badge&logo=esri"></a> Cookbook
-Repository "cheat sheet" for various coding languages used across multiple Esri products. See quick links table below. 
+Repository "cheat sheet" for various coding languages used across multiple Esri products. See quick links below. 
 
  | Language | Product |
  |---------|----------|
