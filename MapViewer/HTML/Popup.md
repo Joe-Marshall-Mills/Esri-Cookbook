@@ -1,5 +1,5 @@
 <details>
-<summary>Create "label style" tags for strings</summary>
+<summary>Create "label style" tags for strings using a HTML table</summary>
 
 ```ruby
 '<figure class="table" style="margin-bottom: 15px;">'+
