@@ -12,3 +12,14 @@
 ```
 
 </details>
+
+<details>
+<summary>Create a progress bar by using dynamic data for the 'width:' parameter</summary>
+
+```ruby
+'<div style="width: 100%; background-color:#F4F0E9; border-radius:4px;">'+
+'<div style="width:' + FIELD/PERCENT + '%; background-color:#00A77B; color:white; text-align:center; border-radius:4px;">'+
+FIELD/PERCENT + '%</div></div>'
+```
+
+</details>
