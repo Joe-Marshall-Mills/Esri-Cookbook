@@ -23,3 +23,13 @@ FIELD/PERCENT + '%</div></div>'
 ```
 
 </details>
+
+<details>
+<summary>Create a donut chart by using dynamic data for the 'background: conic-gradient' parameter and label </summary>
+
+```ruby
+'<div style="width: 65px;height: 65px;border-radius: 50%;background: conic-gradient(#00A77B 0% ' + FIELD/PERCENT + '%, #F4F0E9 ' + FIELD/PERCENT + '% 100%); display: inline-flex; align-items: center; justify-content: center;">'+
+'<div style="width: 55px; height: 55px; border-radius: 50%; background: #ffffff; text-align: center; line-height: 60px; font-weight: bold; font-size:14px; color: #00A77B;">' + FIELD/PERCENT + '%</div>'
+```
+
+</details>
